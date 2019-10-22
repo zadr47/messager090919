@@ -5,8 +5,8 @@ function conn(){
 	####
 
 	//heroku
-	$driver = 'pgsql';				
-	$host = 'ec2-54-83-33-14.compute-1.amazonaws.com';				
+	$driver = 'pgsql';
+	$host = 'ec2-174-129-255-7.compute-1.amazonaws.com';				
 	$db_name = 'dd1qpeu338vg4e';
 	$user = "wsjdszqwvxriug";
 	$charset = 'utf8';
