@@ -8,9 +8,9 @@ function conn(){
 	$driver = 'pgsql';				
 	$host = 'ec2-54-83-33-14.compute-1.amazonaws.com';				
 	$db_name = 'dd1qpeu338vg4e';
-	$user = "abwckpidopjjfk";
+	$user = "wsjdszqwvxriug";
 	$charset = 'utf8';
-	$pass = 'ed726fd42c85974440cb161eabf2007e253bc21197ace9642573231155a7b1fe';
+	$pass = '7ff74fa28f1aae13891db4b9ee65a3832b4b1f45b692d26175b118819b5ab42d';
 	$port = '5432';
 	$dbpath ='';
 	$options = [PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION];
